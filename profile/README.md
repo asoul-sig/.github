@@ -8,6 +8,8 @@
 * [`acao`](https://github.com/asoul-video/acao) 🦙 阿草，数据爬取工具人
 * [`face-detection`](https://github.com/asoul-video/face-detection) ❤️ 让女孩们始终绽放笑颜！
 
+**如果你对 asoul.video 网站背后的故事感兴趣，欢迎阅读[这篇文章](https://github.red/asoul-video-trick/)。**
+
 ## A-SOUL
 A-SOUL 是乐华娱乐于 2020 年 11 月 23 日公开的其旗下首个虚拟偶像团体，由 5 名成员组成。
 
