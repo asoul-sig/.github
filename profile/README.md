@@ -1,8 +1,8 @@
 <img align="right" src="https://img.cdn.n3ko.co/lsky/2021/09/21/0439025df07b8.jpg" width="50%" />
 
-### 嗨! 这里是 [ASOUL-Video](https://asoul.video) 开发组 👋
+### 嗨! 这里是 A-SOUL 特别兴趣小组 👋
 
-我们希望能随时随地观看 A-SOUL 抖音~~土味~~视频，因此开发了以下项目：
+我们也是 [ASOUL-Video](https://asoul.video) 的开发组，我们希望能随时随地观看 A-SOUL 抖音~~土味~~视频，因此开发了以下项目：
 
 * [`asoul-video`](https://github.com/asoul-video/asoul-video)  🎬 https://asoul.video/ 网站后端
 * [`acao`](https://github.com/asoul-video/acao) 🦙 阿草，数据爬取工具人
@@ -11,6 +11,7 @@
 **如果你对 asoul.video 网站背后的故事感兴趣，欢迎阅读[这篇文章](https://github.red/asoul-video-trick/)。**
 
 ## A-SOUL
+
 A-SOUL 是乐华娱乐于 2020 年 11 月 23 日公开的其旗下首个虚拟偶像团体，由 5 名成员组成。
 
 <table>
